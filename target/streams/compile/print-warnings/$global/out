@@ -1,0 +1,3 @@
+[0m[[33mwarn[0m] [0m/Users/viaduc446/scalamata/src/main/scala/com/viadeo/scalamata/EmailService.scala:43: method setSSL in class Email is deprecated: see corresponding Javadoc for more information.[0m
+[0m[[33mwarn[0m] [0m    email.setSSL(emailMessage.smtpConfig.ssl)[0m
+[0m[[33mwarn[0m] [0m          ^[0m
